@@ -1,0 +1,11 @@
+INSERT INTO [dbo].[Table_Users]
+				([userID]
+				,[Username]
+				,[Password]
+				,[Type])
+VALUES (10, 'RGoianS', 'RGoianS!10', 1),
+		(20, 'TucuL', 'tucul123', 2),
+		(30, 'MarcuA', 'marcuaaa', 2),
+		(40, 'GruiaDM', 'gruGDM!!', 2),
+		(50, 'OlahhB', 'olahhhbbb', 2),
+		(60, 'PiturK', 'piturk10', 2)
