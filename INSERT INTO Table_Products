@@ -1,0 +1,10 @@
+INSERT INTO [dbo].[Table_Products]
+		([ProductID]
+		,[ProductName]
+		, [ProductQuantity])
+VALUES (100, 'Banane', 100),
+		(200, 'Portocale', 150),
+		(300, 'Clementine', 200),
+		(400, 'Cirese', 250),
+		(500, 'Zmeura', 120),
+		(600, 'Capsuni', 300)
